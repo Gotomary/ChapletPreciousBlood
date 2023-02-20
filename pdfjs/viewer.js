@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "How to pray the Rosary.pdf";
+var DEFAULT_URL =  "A short guide on how to pray the Chaplet and Litany of the Most Precious Blood of Jesus using Rosary beads.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
